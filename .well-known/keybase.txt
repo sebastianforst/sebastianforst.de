@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/sebastianforst
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://sebastianforst.de
+  * I am sebastianforst (https://keybase.io/sebastianforst) on keybase.
+  * I have a public key ASDdus5Tj0zYNMiDCG5D9oxyeWbR7rPxm7hQhSY8Hxmyqgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120ddbace538f4cd834c883086e43f68c727966d1eeb3f19bb85085263c1f19b2aa0a",
+      "host": "keybase.io",
+      "kid": "0120ddbace538f4cd834c883086e43f68c727966d1eeb3f19bb85085263c1f19b2aa0a",
+      "uid": "b8344fe06b4b5897b47423a3c7200119",
+      "username": "sebastianforst"
+    },
+    "merkle_root": {
+      "ctime": 1615628128,
+      "hash": "5250a305344e8aad95289a7d7a966e1ae09d715c8d6ff5353748627ae574598d7e71a3c83582745f52cb2a7adabc457323f82c09cb542b12360b4638aa9f7099",
+      "hash_meta": "d4c83083913197593d5b4f0b28045d777f53dd6d662e54f1dd4d9cadee340b97",
+      "seqno": 19362742
+    },
+    "service": {
+      "entropy": "pomxqu2Vj0pI64dcKt7HGn2W",
+      "hostname": "sebastianforst.de",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.6.2"
+  },
+  "ctime": 1615628176,
+  "expire_in": 504576000,
+  "prev": "96e9c3b0d7b94be11abb5acf499f59e7be9283f48366ad80a207506fa6aecd1d",
+  "seqno": 30,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg3brOU49M2DTIgwhuQ/aMcnlm0e6z8Zu4UIUmPB8ZsqoKp3BheWxvYWTESpcCHsQglunDsNe5S+Eau1rPSZ9Z576Sg/SDZq2AogdQb6auzR3EILCE2Mr/Cls3/bzIGw8VB68OtnePL4lR9JrhKcG+HktXAgHCo3NpZ8RAZ5njyGbL1Fj/zO7RSSwPDM8UksIV2nYRNSgKlamu7izKCKr7Qbgj504e2m4VeUaTp/FBZ0J5yEeguYts22iGDahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIDt08AeYCdfXM3mjOcAPFU+BQShSN2nJECzzWAZGXHg2o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/sebastianforst
+
+==================================================================
