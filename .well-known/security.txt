@@ -3,29 +3,28 @@ Hash: SHA512
 
 Contact: mailto:security@sebastianforst.de
 
-Expires: Tue, 1 Mar 2022 12:00 +0100
+Expires: 2024-02-29T23:00:00.000Z
 
 Encryption: openpgp4fpr:96DE7595641B02D6C1ECA4EE478457125CFF556D
 # Get openpgp key for email address in Contact field from Web Key Directory (WKD):
 Encryption: http://sebastianforst.de/.well-known/openpgpkey/hu/t5s8ztdbon8yzntexy6oz5y48etqsnbb
 Encryption: https://keys.openpgp.org/vks/v1/by-fingerprint/96DE7595641B02D6C1ECA4EE478457125CFF556D
 
-Preferred-Languages: en, de
+Preferred-Languages: en,de
 
 # The security.txt is signed with the openpgp key linked in the Encryption fields.
 Canonical: https://sebastianforst.de/.well-known/security.txt
-
 -----BEGIN PGP SIGNATURE-----
 
-iQHPBAEBCgA5FiEElt51lWQbAtbB7KTuR4RXElz/VW0FAmBMzEMbHHNlY3VyaXR5
-QHNlYmFzdGlhbmZvcnN0LmRlAAoJEEeEVxJc/1VtBSgMAJafVlUdTWMC0d7wQhTi
-VfYSPdTaVO8QvY1tHYBKnlItSB7vshh1ocljRpHELpkAncoFh1I0f6cX/qrQu86t
-Ht52NbPXk1ZDrWRUB8KJ/U/KqgRAiTKdblWLU/wdzFuWqbV8qHoe/wOBKXi9HS/6
-qtuLBbjJKLXsT3CTgtk1V6QrIkBjlimNUBErwMqV7zAMPpit8lr/w9HzmHWiXZPG
-2JUpm1JBwEfh7PB/jYeaOElNGwuO5loJNTDgBG5IKvhaUFjBXddEXJZehybpW+Mh
-KbE5O1bBlbOBx+YwnjvsHjEhWE56mf0oxhqE6d+O5rVFw9MGhoxTJftzNNr3+Bnb
-AZ3wSc4/5PbtvDwLK0fZ4c6RaQzNTQthe1RepVgKBNc9k0S99Xb0lefZ68iOyu4H
-7/UQZQAtljV2EIpXd2N8mbNo3DnT65M2mpzsqHUF73X58rDskQgbpAvt5H29QU9A
-95yHMBMYYv69zcSuNs8qkTRYB6qDW6P5MLGVMtE9MbBuiw==
-=aXSn
+iQHPBAEBCgA5FiEElt51lWQbAtbB7KTuR4RXElz/VW0FAmIsb3kbHHNlY3VyaXR5
+QHNlYmFzdGlhbmZvcnN0LmRlAAoJEEeEVxJc/1VtrqoMAJ7ZQjuWfKGqTdYwvROj
+3DoF5Pv9BSdYWRSHJV07nVpWGUQ+bEOlskdYYse9d0YjZ4efMgm8uCfztpa8+d0o
+be8+ludCijaHcNCEu40uDb/9pK8BKPXqfk5h24ZTOEGiTFBOdmbAQ9mzsOvx6eUG
+5S5zRgwIxIjq0wKEAirMHe+7Gow5saZ1Tmc+3IwGo1rt1xRP2PRagG7z+Dt62zvS
+VGD2EYxS5BWHDzY38innDz2RNfo/NcWLkJ4uJOBml3rxKmI8PORnG3QqOD7lbBD1
+uSIeETkH1t7FCm7cycDChJhplSBBLHpcRi7e25FPZdymcJ/QiAVOxLoWKAyvEjgQ
+iyVcdSPbvC1xK3aic4jKNEW41M9+MUhsHzERYs7yiqL+nUNJCjaQr/fGC+lwVNwW
+WcClWUzZs20Nxf1o6xXlPD71Bd3wAb+yUDvWJttohTSV00x3Q+hwS929N9//MAkT
+W9N4l4ZAL3GvmRBZF9tfRxFxWnbflVst6ktToGskoo726w==
+=VF52
 -----END PGP SIGNATURE-----
