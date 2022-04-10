@@ -3,6 +3,13 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
+@media (prefers-color-scheme: dark) {
+  body {
+    color: white;
+    background: black;
+  }
+}
+
 h1 {
   letter-spacing: 0.11em;
 }
