@@ -1,0 +1,43 @@
+body {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    color: white;
+    background: black;
+  }
+  svg {
+    fill: white;
+  }
+}
+
+h1 {
+  letter-spacing: 0.11em;
+}
+
+.button {
+  background-color: #3399ff;
+  padding: 14px 25px;
+  width: 200px;
+}
+
+a:link, a:visited {
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.button:hover, .button:active {
+  background-color: #66b3ff;
+}
+
+svg {
+  margin: 5px;
+}
+
+svg:hover {
+  fill: #66b3ff;
+}
